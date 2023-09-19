@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "html",
+			"path": "../html"
+		},
+		{
+			"path": "../GIT"
+		},
+		{
+			"path": "../GIT-ovningar"
+		},
+		{
+			"path": "../git-ovningfive"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
