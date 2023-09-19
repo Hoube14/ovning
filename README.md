@@ -1,3 +1,5 @@
 # ovning
+
 övning
-tjena test test 
+tjena test test
+JAJAJA KOLLA HAN KINGEN PÅ GIT
